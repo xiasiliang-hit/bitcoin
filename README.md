@@ -1,3 +1,8 @@
+We can make bitcoin mining hardware !
+email xiasiliang@gmail.com, wechat 818483824
+
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
